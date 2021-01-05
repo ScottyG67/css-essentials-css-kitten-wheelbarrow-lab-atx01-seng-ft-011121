@@ -1,9 +1,9 @@
 /* Select the image with a class of kitty-1 */
 
-img.kitty1/*__write_selector_here__*/ {
+.kitty1/*__write_selector_here__*/ {
   position: absolute;
   z-index: 1;
-  top: 276px;
+  top: 27px;
   left: 129px;
 }
 
